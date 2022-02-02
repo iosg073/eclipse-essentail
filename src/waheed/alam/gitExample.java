@@ -7,6 +7,7 @@ public class gitExample {
 
 	}
 	public void example() {
+		System.out.println(" puahing to git repository ");
 		
 	}
 
