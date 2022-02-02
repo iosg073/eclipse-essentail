@@ -6,5 +6,8 @@ public class gitExample {
 		System.out.println("this is git commit exercise");
 
 	}
+	public void example() {
+		
+	}
 
 }
